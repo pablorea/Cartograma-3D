@@ -1,6 +1,5 @@
 <p align="center">
-<!--   <img src="https://user-images.githubusercontent.com/25037383/170797261-edf3fc4b-0c25-4b98-bc5c-869af4cac4ff.png" alt="Logo" width="250"/> -->
-  <img src="https://user-images.githubusercontent.com/25037383/170782298-0d03babe-e670-4681-a234-f5f7e433eb44.png" alt="texto" width=600"/>
+  <img src="https://user-images.githubusercontent.com/25037383/170797261-edf3fc4b-0c25-4b98-bc5c-869af4cac4ff.png" alt="texto" width=600"/>
 </p>
 
 #### PBG (PBI) - 2010
